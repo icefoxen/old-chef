@@ -1,0 +1,3 @@
+{
+   "run_list": ["recipe[dragon::default]",  "recipe[dragon::essentialapps]"]
+}
