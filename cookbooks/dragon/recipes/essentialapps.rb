@@ -20,4 +20,8 @@ package 'whois'
 package 'bash'
 package 'links'
 package 'wget'
+package 'curl'
+package 'netcat'
+package 'dosfstools'
+package 'apt-file'
 
