@@ -29,3 +29,6 @@ package 'cclive'
 package 'lynx'
 package 'crawl'
 package 'nethack-console'
+package 'iftop'
+package 'nethogs'
+

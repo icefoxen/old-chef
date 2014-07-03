@@ -24,4 +24,5 @@ package 'curl'
 package 'netcat'
 package 'dosfstools'
 package 'apt-file'
-
+package 'trash-cli
+package 'strace'
